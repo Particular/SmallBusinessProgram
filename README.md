@@ -25,6 +25,12 @@ We've come up with a multi-step discount model that smoothens out that transitio
 
 Our hope is that this will serve as a useful building block for any open-source project looking to find sustainability through commercialization while continuing to serve the smaller organizations in their community.
 
+### Friends
+
+The following vendors provide a Small Business Program:
+
+- [Particular Software](https://particular.net/pricing/small-business-program)
+
 ## License
 
 The contents of this repository are published under the [Creative Commons BY license](LICENSE).
