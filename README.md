@@ -30,6 +30,7 @@ Our hope is that this will serve as a useful building block for any open-source 
 The following vendors provide a Small Business Program:
 
 - [Particular Software](https://particular.net/pricing/small-business-program)
+- [EventCatalog](https://www.eventcatalog.dev/pricing/small-business-program)
 
 ## License
 
