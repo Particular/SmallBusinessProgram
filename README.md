@@ -38,3 +38,5 @@ The contents of this repository are published under the [Creative Commons BY lic
 Please attribute with:
 
 [Small Business Program](https://github.com/Particular/SmallBusinessProgram) is licensed from [Particular Software](https://particular.net) under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+
+We would really appreciate it if you would also add yourself to the [Friends section](README.md#friends) above via a pull request.
