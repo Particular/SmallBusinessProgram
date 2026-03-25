@@ -19,11 +19,11 @@ If the technology vendors provide discounts for those smaller organizations, thi
 
 Many vendors have offered "single step discounts" giving organizations up to a certain size a 100% discount but then requiring them to pay full price when crossing that threshold.
 
-We've come up with a multi-step discount model that smoothens out that transition as described in [this announcement](https://particular.net/blog/launching-small-business-program) and, following [Dylan Beattie's video about licensing models in the .NET ecosystem](https://www.youtube.com/watch?v=CpI8Wh1V5tM), have decided to open-source it so that everybody can reuse, mix, and modify it without worry of copyright infringement.
+The program implements a multi-step discount model that smoothens out that transition. It has been made open-source so that anyone may reuse, remix, and modify it without worry of copyright infringement.
 
 ## Spread the word
 
-Our hope is that this will serve as a useful building block for any open-source project looking to find sustainability through commercialization while continuing to serve the smaller organizations in their community.
+This should serve as a useful building block for any open-source project looking to find sustainability through commercialization while continuing to serve the smaller organizations in their community.
 
 ### Friends
 
@@ -40,4 +40,4 @@ Please attribute with:
 
 [Small Business Program](https://github.com/Particular/SmallBusinessProgram) is licensed from [Particular Software](https://particular.net) under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 
-We would really appreciate it if you would also add yourself to the [Friends section](README.md#friends) above via a pull request.
+To show support for this initiative, you are encouraged to add your project to the [Friends section](README.md#friends) above via a pull request.
