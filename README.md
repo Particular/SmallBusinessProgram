@@ -19,7 +19,7 @@ If the technology vendors provide discounts for those smaller organizations, thi
 
 Many vendors have offered "single step discounts" giving organizations up to a certain size a 100% discount but then requiring them to pay full price when crossing that threshold.
 
-The program implements a multi-step discount model that smoothens out that transition. It has been made open-source so that anyone may reuse, remix, and modify it without worry of copyright infringement.
+The Small Business Program implements a multi-step discount model that smoothens out that transition. It has been made open-source so that anyone may reuse, remix, and modify it without worry of copyright infringement.
 
 ## Spread the word
 
